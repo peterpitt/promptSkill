@@ -1,0 +1,20 @@
+{
+  "name": "promptSkill",
+  "description": "A curated skills library for Claude Code: TDD, debugging, collaboration, planning, and proven development workflows",
+  "version": "1.0.0",
+  "author": {
+    "name": "peterpitt",
+    "email": "billpitt613@gmail.com"
+  },
+  "homepage": "https://github.com/peterpitt/promptSkill",
+  "repository": "https://github.com/peterpitt/promptSkill",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "tdd",
+    "debugging",
+    "collaboration",
+    "workflows",
+    "planning"
+  ]
+}
